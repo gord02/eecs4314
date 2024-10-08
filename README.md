@@ -11,4 +11,6 @@
 - Gordon Hamilton 218669879
 
 ## Resources
-[The Infrastructure Behind Twitter: Scale](https://blog.x.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale)
+- [The Infrastructure Behind Twitter: Scale](https://blog.x.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale)
+- [Processing billions of events in real time at Twitter](https://blog.x.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
+- [Elon Musk's X for Twitter Code Review](https://x.com/elonmusk/status/1593899029531803649) 
