@@ -10,6 +10,19 @@
 - Jaheim Prendagast 219017433
 - Gordon Hamilton 218669879
 
+## Potential Architectures and Design Patterns In Twitter:
+- Client-server architecture between client and web server
+- Microservice architecture
+- Repository architecture for the memory cache, mySQl and object store dbs
+- Remote procedure calls between the services & RPC API communication 
+- Implicit Invocation Variants inside the notification service?
+- Process control(Adaptable Twitter algorithm) Load Balancing (Deterministic Aperture) 
+- Pipeline and Abstraction Layering Present?
+- Abstraction layering  
+- Pipeline - lower levels 
+- Master-Slave Design Pattern in databases
+
+
 ## Resources
 - [The Infrastructure Behind Twitter: Scale](https://blog.x.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale)
 - [Processing billions of events in real time at Twitter](https://blog.x.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
