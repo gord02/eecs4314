@@ -53,5 +53,5 @@ https://systemdesignschool.io/blog/message-queue
 https://www.rabbitmq.com/blog/2021/07/28/rabbitmq-streams-message-deduplication
 
 ### Submission
-Presentation Powerpoint: https://docs.google.com/presentation/d/1p-4kxwozFfl5Le0sMRVPHMaFHrt3fZ5sEE5q_i5e8u8/edit#slide=id.g306c0ff67a2_0_1
-Report: https://docs.google.com/document/d/1AoUCBkRQt3dyYuBt1X2R5oTHd3cHbUxcmNWMly89PlM/edit#heading=h.79ocrde6a0tg
+- Presentation Powerpoint: https://docs.google.com/presentation/d/1p-4kxwozFfl5Le0sMRVPHMaFHrt3fZ5sEE5q_i5e8u8/edit#slide=id.g306c0ff67a2_0_1
+- Report: https://docs.google.com/document/d/1AoUCBkRQt3dyYuBt1X2R5oTHd3cHbUxcmNWMly89PlM/edit#heading=h.79ocrde6a0tg
