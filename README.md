@@ -38,11 +38,20 @@ https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/
 
 https://algodaily.com/lessons/design-of-the-twitter-architecture
 
+https://corgicorporation.medium.com/elon-musk-and-twitters-system-design-8bc2a97680e6
+
 https://blog.det.life/how-twitter-processes-4-billion-events-in-real-time-daily-942db8f7d7b5
-(for pipelines)
+
 https://cloud.google.com/blog/products/data-analytics/modernizing-twitters-ad-engagement-analytics-platform
-(for pipelines)
+
+https://www.altexsoft.com/blog/event-driven-architecture-pub-sub/
 
 https://betterprogramming.pub/how-i-made-twitter-back-end-57addbaa14f5 
 
+https://systemdesignschool.io/blog/message-queue
+
+https://www.rabbitmq.com/blog/2021/07/28/rabbitmq-streams-message-deduplication
+
+### Submission
 Presentation Powerpoint: https://docs.google.com/presentation/d/1p-4kxwozFfl5Le0sMRVPHMaFHrt3fZ5sEE5q_i5e8u8/edit#slide=id.g306c0ff67a2_0_1
+Report: https://docs.google.com/document/d/1AoUCBkRQt3dyYuBt1X2R5oTHd3cHbUxcmNWMly89PlM/edit#heading=h.79ocrde6a0tg
