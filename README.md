@@ -74,5 +74,5 @@
 
 ### Submission
 - Presentation Powerpoint: 
-- - Report: 
+- Report: 
 
