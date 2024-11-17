@@ -55,11 +55,18 @@ https://www.rabbitmq.com/blog/2021/07/28/rabbitmq-streams-message-deduplication
 - Report: https://docs.google.com/document/d/1AoUCBkRQt3dyYuBt1X2R5oTHd3cHbUxcmNWMly89PlM/edit#heading=h.79ocrde6a0tg
 
 ## Assigment02
-  
 ### Resources
 - [Finagle: A Protocol-Agnostic RPC System](https://blog.x.com/engineering/en_us/a/2011/finagle-a-protocol-agnostic-rpc-system)
+- https://developers.home-assistant.io/docs/architecture/core/
+- https://developers.home-assistant.io/docs/architecture/devices-and-services
+- https://developers.home-assistant.io/docs/auth_index
+- https://developers.home-assistant.io/docs/auth_api
+- https://developers.home-assistant.io/docs/entity_registry_index
+- https://developers.home-assistant.io/docs/device_registry_index
+- https://developers.home-assistant.io/docs/architecture/devices-and-services
+- https://developers.home-assistant.io/docs/integration_fetching_data
 
 ### Submission
-- Presentation Powerpoint: 
-- Report: 
+- Presentation Powerpoint: https://docs.google.com/presentation/d/1QwO-WjRUYGxKb2cDY3U9VJWMkoJRTEVEnTnwm4zh2jc/edit#slide=id.p
+- Report: https://docs.google.com/document/d/1rU6gVpTYHx3AhLog9QZGaO3aBH3TCC9uSOm0aDQn1kY/edit?tab=t.0#heading=h.g7irouhebjcu
 
