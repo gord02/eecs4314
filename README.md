@@ -56,7 +56,6 @@ https://www.rabbitmq.com/blog/2021/07/28/rabbitmq-streams-message-deduplication
 
 ## Assigment02
 ### Resources
-- [Finagle: A Protocol-Agnostic RPC System](https://blog.x.com/engineering/en_us/a/2011/finagle-a-protocol-agnostic-rpc-system)
 - https://developers.home-assistant.io/docs/architecture/core/
 - https://developers.home-assistant.io/docs/architecture/devices-and-services
 - https://developers.home-assistant.io/docs/auth_index
