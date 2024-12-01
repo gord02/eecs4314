@@ -71,8 +71,17 @@ https://www.rabbitmq.com/blog/2021/07/28/rabbitmq-streams-message-deduplication
 
 ## Assignment03
 ### Resources
+- https://developers.home-assistant.io/docs/architecture/core
+- https://developers.home-assistant.io/docs/architecture_index
+- https://developers.home-assistant.io/docs/architecture_components
+- https://developers.home-assistant.io/docs/architecture_components/
+- https://blog.visual-paradigm.com/beginners-guide-to-state-machine-diagrams/
+- https://developers.home-assistant.io/docs/entity_registry_index
+- https://developers.home-assistant.io/docs/auth_permissions
+- https://github.com/home-assistant/core
+- https://www.home-assistant.io/docs/
 
 ### Submission
-- Presentation Powerpoint: 
-- Report: 
+- Presentation Powerpoint: https://docs.google.com/presentation/d/1IUDyN-GjmXWWxGznO4q6ZvEoXgufgTAibHLmnejXeTQ/edit#slide=id.p
+- Report: https://docs.google.com/document/d/1GM1wgxuCB7ezAreMm_yTB2KYomv2tshmP3sVFB3gpdU/edit?tab=t.0
 
